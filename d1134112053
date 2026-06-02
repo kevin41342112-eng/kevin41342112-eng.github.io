@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>蔡旻翰的個人網站</title>
+</head>
+<body>
+
+    <h1>我的個人網站</h1>
+
+    <hr>
+
+    <h2>基本資料</h2>
+
+    <p><strong>姓名：</strong>蔡旻翰</p>
+
+    <p><strong>學號：</strong>D1134112053</p>
+
+    <hr>
+
+    <p>這是我使用 GitHub Pages 建立的網站。</p>
+
+</body>
+</html>
